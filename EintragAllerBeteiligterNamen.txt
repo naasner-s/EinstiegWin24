@@ -1,17 +1,2 @@
 Herr Naasner
-<<<<<<< HEAD
-<<<<<<< HEAD
-Felix Koch
-=======
-=======
-Vincenzo Greco
->>>>>>> 6406453c4e00a1cfc3e3ff86e8653d434e355696
-Jetzt auch persönlich: Naasner
-Leon Niemiec
-Qusay Dabbah Aldik
-<<<<<<< HEAD
->>>>>>> ee758ed87ae3d57015eb2fb1edf8ce10a642ff48
-=======
-
-
->>>>>>> 6406453c4e00a1cfc3e3ff86e8653d434e355696
+Felix koch
