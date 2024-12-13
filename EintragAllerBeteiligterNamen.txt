@@ -1,2 +1,7 @@
 Herr Naasner
+<<<<<<< HEAD
 Felix Koch
+=======
+Jetzt auch persönlich: Naasner
+Qusay Dabbah Aldik
+>>>>>>> ee758ed87ae3d57015eb2fb1edf8ce10a642ff48
